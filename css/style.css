@@ -1,0 +1,50 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #d1f3e9;
+}
+
+#projects {
+  background-color: aliceblue;
+}
+
+#graphic {
+  background-color: aliceblue;
+}
+
+#honorable {
+  background-color: aliceblue;
+}
+
+#certif {
+  background-color: aliceblue;
+}
+
+.bd-example {
+  padding: 1.5rem;
+  margin-right: 0;
+  margin-left: 0;
+  border-width: 1px;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  background-color: #ffffff;
+}
+
+.bd-example {
+  position: relative;
+  padding: 1rem;
+  margin: 1rem -0.75rem 0;
+  border: solid #dee2e6;
+  border-width: 1px 0 0;
+}
+
+#gear {
+  background-color: aliceblue;
+}
+
+#projects-modal .modal-img {
+  width: 100%;
+}
+
+section {
+  padding-top: 5rem;
+}
